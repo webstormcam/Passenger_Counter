@@ -10,5 +10,6 @@ function increment(){
 function save(){
 let currentVal=' '+count+' -'
 saveEl.innerText+=currentVal
-
+count=0
+document.getElementById('count-el').innerText=count
 }
