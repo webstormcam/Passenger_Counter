@@ -30,6 +30,11 @@ button {
     border-radius: 5px;
 }
 
+p{
+    color: white;
+    font-size: 20px;
+}
+
 #increment-btn {
     background: darkred;
 }
